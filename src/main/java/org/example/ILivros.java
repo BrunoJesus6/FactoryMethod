@@ -1,5 +1,5 @@
 package org.example;
 
-public interface IServico {
+public interface ILivros {
     String publicar();
 }
